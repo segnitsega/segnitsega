@@ -5,7 +5,7 @@
 I'm a full-stack application developer on a mission to turn coffee and code into seamless digital experiences. From front-end magic to back-end wizardry, I build everything from scratch—brainstorming wild ideas, wrangling logic, and debugging my way to victory. Whether it's crafting intuitive user interfaces or optimizing performance under the hood, I love bringing ideas to life with clean, scalable code. When I’m not deep in the matrix of development, I’m probably experimenting with new tech, automating things I probably don’t need to, or convincing my code that bugs are just “undocumented features.”
 
 
-
+---
 
 ### 🧰 Languages and Tools
 
@@ -19,6 +19,8 @@ I'm a full-stack application developer on a mission to turn coffee and code into
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+---
 
 #
 
