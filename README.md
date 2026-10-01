@@ -35,7 +35,7 @@ I'm a full-stack application developer on a mission to turn coffee and code into
 
 
 <h3></h3>
-[website]: https://segni-portfolio.netlify.app/
+
 
 
 
