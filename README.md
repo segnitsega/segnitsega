@@ -1,8 +1,12 @@
 # 🏄‍♂️ Segni Tsega
 
-**Full-Stack Software Engineer**
+**Full-Stack Software Engineer & AI Enthusiast**
 
-I'm a full-stack application developer on a mission to turn coffee and code into seamless digital experiences. From front-end magic to back-end wizardry, I build everything from scratch—brainstorming wild ideas, wrangling logic, and debugging my way to victory. Whether it's crafting intuitive user interfaces or optimizing performance under the hood, I love bringing ideas to life with clean, scalable code. When I’m not deep in the matrix of development, I’m probably experimenting with new tech, automating things I probably don’t need to, or convincing my code that bugs are just “undocumented features.”
+I'm a full-stack developer on a mission to turn coffee and code into seamless digital experiences. TypeScript and JavaScript are my home turf, from React on the front end to Node.js on the back, and lately I've been weaving AI into everything: RAG pipelines, agents, embeddings, and whatever else I can get my hands on.
+
+I build things from scratch: brainstorming wild ideas, wrangling logic, and debugging my way to victory. Whether it's crafting intuitive interfaces or optimizing performance under the hood, I love bringing ideas to life with clean, scalable code.
+
+When I'm not deep in the matrix, I'm probably experimenting with new tech, automating things I probably don't need to, or convincing my code that bugs are just "undocumented features."
 
 
 ---
